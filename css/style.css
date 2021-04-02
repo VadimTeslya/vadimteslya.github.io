@@ -1,0 +1,17 @@
+#paragraph1 {
+    background-color: blue;
+}
+
+.left {
+    width: 50%;
+    height: 30px;
+    background-color: red;
+    display: block;
+}
+
+.right {
+    width: 50%;
+    height: 30px;
+    background-color: cornflowerblue;
+    display: block;
+}
